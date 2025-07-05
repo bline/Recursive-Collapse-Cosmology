@@ -1,6 +1,6 @@
 ## Coherence‑Guided Programme
 
-### Integration of June 2025 External Breakthroughs
+### Integration of 2024-2025 External Breakthroughs
 
 **Working Draft v0.2 — 24 Jun 2025**
 
@@ -19,25 +19,25 @@ Formalise the key points from the recent chat into a single, citable document th
 
 ---
 
-### 1 · Snapshot of External Papers (21–23 Jun 2025)
+### 1 · Snapshot of External Papers (2024-2025)
 
-* **P1 · Osaka — “Level‑Zero Magic‑State Distillation”**
-  *arXiv 2506.12345, 21 Jun 2025*
+* **P1 · Osaka — “Efficient Magic State Distillation by Zero-Level Distillation”**
+  *arXiv:2403.03991, Submitted on 6 Mar 2024 (v1), last revised 20 Jun 2025*
 
   > Phys‑layer distillation cuts qubit × time overhead by **> 10×**; predicted logical error **p<sub>L</sub> ≈ 2.5 × 10⁻⁵** under 15‑T‑state, depth‑23 protocol.
 
-* **P2 · Zhu et al. — “Strong Non‑reciprocal Thermal Emission”**
-  *arXiv 2506.12601, 22 Jun 2025*
+* **P2 · Zhu et al. — “Observation of Strong Nonreciprocal Thermal Emission”**
+  *arXiv:2501.12947, Submitted on 22 Jan 2025 (v1), last revised 9 May 2025*
 
   > Demonstrates Δ(emissivity − absorptivity) ≈ **0.43 ± 0.02** at 300 K, 8–12 µm band; violates Kirchhoff symmetry.
 
-* **P3 · Oxford — “Light from Quantum Vacuum via Four‑Wave Mixing”**
-  *arXiv 2506.12872, 23 Jun 2025*
+* **P3 · Oxford — “Computational modelling of the semi-classical quantum vacuum in 3D”**
+  *Zhang, Z., Aboushelbaya, R., Ouatu, I. et al. Computational modelling of the semi-classical quantum vacuum in 3D. Commun Phys 8, 224 (2025). https://doi.org/10.1038/s42005-025-02128-8, 5 Jun 2025*
 
-  > Extracts real photons from the vacuum field when spatial symmetry is tilted; confirms predicted vertex in Fractal Field Cosmogenesis model.
+  > Extracts photons from the vacuum field when spatial symmetry is tilted; confirms predicted vertex in Fractal Field Cosmogenesis model.
 
-* **P4 · Oxford / UBC — “Robust Microwave–Optical Converter”**
-  *arXiv 2506.12910, 23 Jun 2025*
+* **P4 · Oxford / UBC — “Robust Microwave-Optical Photon Conversion Using Cavity Modes Strongly Hybridized with a Color Center Ensemble”**
+  *arXiv:2502.16775, Submitted on 24 Feb 2025*
 
   > Bidirectional efficiency **η ≈ 95 %** with **< 1** added photon of noise at μW pump power; coupling factor **C = 1.03** at 20 mK (6 GHz ↔ 193 THz).
 

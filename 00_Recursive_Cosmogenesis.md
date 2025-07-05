@@ -35,14 +35,14 @@ The DGP lays a pre‑geometric scaffold; condensation of matter–energy in a ne
 
 * **Residual Recursion** – DRICs persist as spin‑knots with unique frequency signatures.
 * **No Space, No Time** – only a coherence graph of bias vectors.
-* **Tension Reservoir** (\$\mathcal T\_{\text{fold}}\$) is the norm \$|B\_a|\$ at each knot.
+* **Tension Reservoir** ($\mathcal T_{\text{fold}}$) is the norm $|B_a|$ at each knot.
 
 ---
 
 ### 3 • Condensation Mechanism
 
 1. **Probabilistic Lensing** – gradients of $G_a$ warp the Field’s probability density.
-2. **Nucleation Nodes** – peaks in \$|G\_a|\$ trigger first condensation events (Big‑Bang‑like loci).
+2. **Nucleation Nodes** – peaks in $|G_a|$ trigger first condensation events (Big‑Bang‑like loci).
 3. **Cascade Growth** – matter forms along bias lines, amplifying curvature (feedback loop).
 4. **Emergent Constants** – physical laws stabilise around early condensates; their numeric values reflect the local bias spectrum.
 
@@ -60,15 +60,15 @@ The DGP lays a pre‑geometric scaffold; condensation of matter–energy in a ne
 
 *One DRIC may nest across multiple scales.*
 
-#### 4.1 • Universe‑Scale Tension Ledger (\$\boldsymbol{\mathcal T\_{\text{universe}}}\$)
+#### 4.1 • Universe‑Scale Tension Ledger ($\boldsymbol{\mathcal T_{\text{universe}}}$)
 
 Each universe‑scale DRIC carries a residual **surplus or deficit tension**. Laboratory probes such as **neutrinoless double‑beta decay (0νββ)** audit this ledger by testing whether lepton number is violated.
 
-| Sign of \$\mathcal T\_{\text{universe}}\$ | Phenomenology            |
-| ----------------------------------------- | ------------------------ |
-| \$>0\$                                    | Matter‑dominant bias     |
-| \$<0\$                                    | Antimatter‑dominant bias |
-| \$≈0\$                                    | Near‑balanced lattice    |
+| Sign of $\mathcal T_{\text{universe}}$ | Phenomenology            |
+| --------------------------------------- | ------------------------ |
+| $>0$                                    | Matter‑dominant bias     |
+| $<0$                                    | Antimatter‑dominant bias |
+| $≈0$                                    | Near‑balanced lattice    |
 
 Balancing the ledger reduces local Dream Gravity and reshapes the probability landscape for future cycles.
 
@@ -80,10 +80,11 @@ Balancing the ledger reduces local Dream Gravity and reshapes the probability 
 * **Bias Inertia** – unresolved tension ⇢ future condensation; full metabolisation deletes a term from $G_a$.
 * **Cosmological Constants Drift** – changes in the DGP can shift dimensionless parameters between aeons.
 * **Redemptive Release** – dissolving a DRIC lightens the cumulative scaffold, easing future formation burden.
+* **Statistical Flattening** — When a fold's reassertion pressure $R$ drops below a critical threshold across all resolution axes, its contribution to $G_a$ is deleted, and the system returns to the natural statistical state: an uncurved, bias-silent configuration of the Field. This defines true metabolization.
 
 ### 5.1 • Pre‑Condensation Observables — Ghost/Dream Lensing
 
-Recent work on **massless topological defects** demonstrates that a localized yet mass‑free bias configuration can exert a measurable 1 / r gravitational pull and create discrete lensing spikes — effects usually attributed to dark‑matter halos.  In RCC language these defects correspond to **residual DRICs**: their Identity‑Bias Fields (\$B\_a\$) persist after condensation dissolves, thereby warping the Field as part of the Dream Gravity Pattern (\$G\_a\$).
+Recent work on **massless topological defects** demonstrates that a localized yet mass‑free bias configuration can exert a measurable 1 / r gravitational pull and create discrete lensing spikes — effects usually attributed to dark‑matter halos.  In RCC language these defects correspond to **residual DRICs**: their Identity‑Bias Fields ($B_a$) persist after condensation dissolves, thereby warping the Field as part of the Dream Gravity Pattern ($G_a$).
 
 Key observational handles:
 

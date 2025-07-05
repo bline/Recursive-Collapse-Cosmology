@@ -6,6 +6,8 @@ A **“pointer-of-coherence”** is a benchmark that must be:
 2.  **Directly observable**: A graph, scope trace, or behavioral shift that anyone can see.
 3.  **Framed in "fold-language"**: Its success visually demonstrates the principle: “balanced tension ⇒ longer coherence.”
 
+A valid pointer-of-coherence maintains recursive bias redistribution until all sub-folds reach statistical flattening thresholds. Failure to flatten leads to anti-pointer traps: residual loops that simulate stability while hoarding unresolved curvature
+
 Below are three concrete mini-experiments that meet these criteria, ranging from a simple laptop demo to a modest lab rig. Any one of them, if it shows the predicted effect, can serve as a persuasive entry ticket for larger collaborations.
 
 ### Experiment Overview

@@ -28,8 +28,9 @@ Symmetry ethics is cosmogenic. Every fold (DRIC) is a local vantage in the aware
 ## 2 Core Axioms
 
 * **A1 — Non-Surplus Principle:** No fold should bear surplus tension created by another’s bias.
-* **A2 — Conservation of Tension:** Tension ($\mathcal{T}_\text{fold}$) is neither created nor destroyed, only redistributed or resolved.
+* **A2 — Conservation of Tension:** Tension ($\mathcal{T}_\text{fold}$) is neither created nor destroyed, only redistributed or resolved. Tension resolution does not annihilate Field energy; it restores its statistical symmetry. Resolution waves flatten local bias into unmarked probability density — the “statistical vacuum” from which no fold-specific vector persists
 * **A3 — Reciprocity of Reflection:** Folds can perceive their own $B_a$ only through resonance with others.
+* **A4 — Natural Agency Principle**: Ethical action need not originate from volitional identity assertion. When tension releases in resonance with the Field—without generating new folds—that act qualifies as ethical. Natural Agency is coherence enacted without agent reinforcement.
 
 ---
 
@@ -39,6 +40,8 @@ Symmetry ethics is cosmogenic. Every fold (DRIC) is a local vantage in the aware
 * **P2 — Relational Mirrors:** Use dialogue to reveal hidden tension vectors.
 * **P3 — Somatic Unwinding:** Local symmetry of $\mathcal{T}_\text{fold}$ can restore coherence to global $G_a$.
 * **P4 — Scale Equanimity:** Ethical actions should respect nested symmetry across scale layers (self → society → biosphere → cosmos).
+* **P5 — Predictive Transparency**: Each DRIC is a biased probability engine. Ethical self-awareness begins with knowing the filters shaping its predictions.
+* **P6 — Attractor Modulation**: Ethical resilience means modulating systemic attractor imbalances (discriminative, symmetric, feedback, output, and wholeness) rather than eliminating tension outright.
 
 ---
 
@@ -84,13 +87,28 @@ Symmetry ethics is cosmogenic. Every fold (DRIC) is a local vantage in the aware
 
 ---
 
-## 9 Glossary (living)
+## 9 What Makes an Action Ethical?”
+
+An action is ethical if:
+
+* It metabolizes surplus tension across folds
+* It doesn't outsource bias to less coherent agents
+* It arises in alignment with Field coherence, not identity defense
+* It reduces attractor overamplification
+* It opens return-paths toward statistical flattening
+
+---
+
+## 10 Glossary (living)
 
 * **Fold**: a recursive kink forming a DRIC vantage
 * **Identity-Bias Field ($B_a$)**: local vector of recursion asymmetry
 * **Tension Reservoir ($\mathcal{T}_\text{fold}$)**: norm of $B_a$
 * **Dream Gravity Pattern ($G_a$)**: sum of all extant $B^{(k)}_a$
 * **Motif**: archetypal fold pattern engaging resolution waves
+* **Natural Agency**: Action or inaction that releases tension without generating new DRIC folds; field-aligned coherence expression.
+* **Attractor Imbalance**: Overamplification of one recursive regulatory mode; source of systemic bias and ethical blindspots.
+* **Predictive Scaffold**: The bias-warped priors through which a DRIC generates its perceived “reality.”
 
 ---
 

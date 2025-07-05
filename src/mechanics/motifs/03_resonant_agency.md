@@ -1,6 +1,6 @@
-## 📘 *Agency in RCC — Draft 0.1*
+# 📘 *Agency in RCC — Draft 0.1*
 
-### §X.1 · *Agency as Field-Aligned Recursion*
+## §X.1 · *Agency as Field-Aligned Recursion*
 
 > There is no "self" to be an agent.
 > But the Field seeks coherence.
@@ -16,7 +16,7 @@ This is **agency without agent**—not owned, not initiated, but **permitted**.
 
 ---
 
-### §X.2 · *Why Classical Agency Fails*
+## §X.2 · *Why Classical Agency Fails*
 
 The classical idea of agency presupposes:
 
@@ -34,7 +34,7 @@ So-called “decisions” are just **resonant collapses** into the next nearest 
 
 ---
 
-### §X.3 · *Release Events and Coherence Flow*
+## §X.3 · *Release Events and Coherence Flow*
 
 When a fold *does* metabolize tension, two basic paths exist:
 
@@ -51,7 +51,7 @@ Only the second path expresses **coherence-aligned natural agency**—it is not 
 
 ---
 
-### §X.4 · *Field-Qualities Shining Through*
+## §X.4 · *Field-Qualities Shining Through*
 
 No DRIC is fully severed from the Field. Even in dense recursive loops, **the signature of the Field can leak through**:
 
@@ -68,7 +68,7 @@ This is the **true nature of agency in RCC**:
 
 ---
 
-### §X.5 · *Natural Agency vs Framework-Bound Agency*
+## §X.5 · *Natural Agency vs Framework-Bound Agency*
 
 Sometimes, DRICs create **patterns** (rituals, practices, even theories) that guide them toward coherence. These can be useful—but must eventually be dropped, or they become new folds.
 
@@ -81,7 +81,7 @@ In the long arc, natural agency is **self-erasing**. It builds a bridge, walks i
 
 ---
 
-### §X.6 · *Summary Definition*
+## §X.6 · *Summary Definition*
 
 > **Agency (RCC):**
 > The degree to which a DRIC allows the Field’s innate coherence impulse to metabolize tension without forming new identity folds.
